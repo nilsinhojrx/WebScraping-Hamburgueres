@@ -1,0 +1,254 @@
+{
+    "menu_items": [
+        {
+            "name": "Pudim",
+            "category": "Destaques",
+            "price": "12.00"
+        },
+        {
+            "name": "IRRESISTIVEL",
+            "category": "Destaques",
+            "price": "16.20"
+        },
+        {
+            "name": "GORGON ONION CRISPY",
+            "category": ">>> Burger do mês <<<",
+            "price": "42.00"
+        },
+        {
+            "name": "IRRESISTIVEL",
+            "category": "BARATI$$IMO SMASH DAY",
+            "price": " 18.00 "
+        },
+        {
+            "name": "OPS ! BACON",
+            "category": "BARATI$$IMO SMASH DAY",
+            "price": "16.20"
+        },
+        {
+            "name": "MELT BACON",
+            "category": "BARATI$$IMO SMASH DAY",
+            "price": "20.00"
+        },
+        {
+            "name": "SMASH BACON",
+            "category": "BARATI$$IMO SMASH DAY",
+            "price": "22.00"
+        },
+        {
+            "name": "BATATA D´CUPIM",
+            "category": "PRA COMEÇAR",
+            "price": "34.00"
+        },
+        {
+            "name": "HOT WINGS",
+            "category": "PRA COMEÇAR",
+            "price": "28.00"
+        },
+        {
+            "name": "BATATA CHEDDAR E CRISPY DE BACON",
+            "category": "PRA COMEÇAR",
+            "price": "28.00"
+        },
+        {
+            "name": "BOLINHA DE CARNE DO SOL",
+            "category": "PRA COMEÇAR",
+            "price": "26.00"
+        },
+        {
+            "name": "ONION RINGS",
+            "category": "PRA COMEÇAR",
+            "price": "20.00"
+        },
+        {
+            "name": "DADINHOS DE TAPIOCA",
+            "category": "PRA COMEÇAR",
+            "price": "18.00"
+        },
+        {
+            "name": "COXINHA DE FRANGO",
+            "category": "PRA COMEÇAR",
+            "price": "26.00"
+        },
+        {
+            "name": "COMBO DO JOHN`S",
+            "category": "COMBOS BURGER`S",
+            "price": "36.00"
+        },
+        {
+            "name": "COMBO AUTÊNTICO BACON",
+            "category": "COMBOS BURGER`S",
+            "price": "44.00"
+        },
+        {
+            "name": "COMBO ONION BBQ",
+            "category": "COMBOS BURGER`S",
+            "price": "44.00"
+        },
+        {
+            "name": "COMBO D´CUPIM",
+            "category": "COMBOS BURGER`S",
+            "price": "54.00"
+        },
+        {
+            "name": "COMBO NEW CLASSICO",
+            "category": "COMBOS BURGER`S",
+            "price": "44.00"
+        },
+        {
+            "name": "COMBO DO MEGA JOHN`S",
+            "category": "COMBOS BURGER`S",
+            "price": "53.00"
+        },
+        {
+            "name": "JOHN´S",
+            "category": "BURGER`S",
+            "price": "24.00"
+        },
+        {
+            "name": "AUTÊNTICO BACON",
+            "category": "BURGER`S",
+            "price": "32.00"
+        },
+        {
+            "name": "ONION BBQ",
+            "category": "BURGER`S",
+            "price": "32.00"
+        },
+        {
+            "name": "D´CUPIM",
+            "category": "BURGER`S",
+            "price": "42.00"
+        },
+        {
+            "name": "NEW CLÁSSICO",
+            "category": "BURGER`S",
+            "price": "32.00"
+        },
+        {
+            "name": "MEGA JOHN´S",
+            "category": "BURGER`S",
+            "price": "41.00"
+        },
+        {
+            "name": "COMBO SR.CHICKEN",
+            "category": "COMBO SANDUICHES DE FRANGO",
+            "price": "40.00"
+        },
+        {
+            "name": "COMBO CHIKENSLAW",
+            "category": "COMBO SANDUICHES DE FRANGO",
+            "price": "42.00"
+        },
+        {
+            "name": "SR.CHICKEN",
+            "category": "SANDUICHES DE FRANGO",
+            "price": "28.00"
+        },
+        {
+            "name": "CHIKENSLAW",
+            "category": "SANDUICHES DE FRANGO",
+            "price": "30.00"
+        },
+        {
+            "name": "OVOMALTINE",
+            "category": "MILKSHAKES",
+            "price": "26.00"
+        },
+        {
+            "name": "BACON COM ÓREO",
+            "category": "MILKSHAKES",
+            "price": "28.00"
+        },
+        {
+            "name": "NINHO COM NUTELLA",
+            "category": "MILKSHAKES",
+            "price": "28.00"
+        },
+        {
+            "name": "MORANGO",
+            "category": "MILKSHAKES",
+            "price": "26.00"
+        },
+        {
+            "name": "MORANGO NO LANCE",
+            "category": "SMOOTHIES",
+            "price": "20.00"
+        },
+        {
+            "name": "MARACUBRABO",
+            "category": "SMOOTHIES",
+            "price": "18.00"
+        },
+        {
+            "name": "VITAMINA MARACUJA",
+            "category": "SMOOTHIES",
+            "price": "12.00"
+        },
+        {
+            "name": "SUCO DE LARANJA COM MORANGO",
+            "category": "SUCOS NATURAIS E REFRESCANTES",
+            "price": "20.00"
+        },
+        {
+            "name": "SUCO DE LARANJA",
+            "category": "SUCOS NATURAIS E REFRESCANTES",
+            "price": "14.00"
+        },
+        {
+            "name": "SODA ITALIANA DE MAÇA VERDE",
+            "category": "SUCOS NATURAIS E REFRESCANTES",
+            "price": "18.00"
+        },
+        {
+            "name": "SUCO DE ABACAXI COM HORTELÃ",
+            "category": "SUCOS NATURAIS E REFRESCANTES",
+            "price": "14.00"
+        },
+        {
+            "name": "SUCO LARANJA DE 1 LITRO",
+            "category": "SUCOS NATURAIS E REFRESCANTES",
+            "price": "18.00"
+        },
+        {
+            "name": "CHEESE CAKE",
+            "category": "SOBREMESAS",
+            "price": "20.00"
+        },
+        {
+            "name": "Pudim",
+            "category": "SOBREMESAS",
+            "price": " 16.00 "
+        },
+        {
+            "name": "BISNAGA MOLHO TEMPERADO",
+            "category": "MOLHOS DO JOHN`S",
+            "price": "16.00"
+        },
+        {
+            "name": "BISNAGA MOLHO DE BACON",
+            "category": "MOLHOS DO JOHN`S",
+            "price": "16.00"
+        },
+        {
+            "name": "BISNAGA KETCHUP DE GOIABADA",
+            "category": "MOLHOS DO JOHN`S",
+            "price": "16.00"
+        },
+        {
+            "name": "BISNAGA MOLHO BBQ DO JOHN´S DE BACON",
+            "category": "MOLHOS DO JOHN`S",
+            "price": "16.00"
+        },
+        {
+            "name": "BISNAGA MOLHO DO BIG",
+            "category": "MOLHOS DO JOHN`S",
+            "price": "16.00"
+        },
+        {
+            "name": "BISNAGA MOLHO DE QUEIJO CHEDDAR",
+            "category": "MOLHOS DO JOHN`S",
+            "price": "20.00"
+        }
+    ]
+}
